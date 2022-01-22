@@ -1,3 +1,5 @@
+<img src='https://drive.google.com/file/d/1dn33q9GE_pf0p2Letr7liQiVyaqtr6Am/view?usp=sharing' ><br><br>
+
 # Hi there 👋
 
 My name is Vladimir Stojoc and I am a Computer Science student at Technical University of Moldova.<br>

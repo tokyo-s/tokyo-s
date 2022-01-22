@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 My name is Vladimir Stojoc and I am a Computer Science student from Technical University of Moldova.
 Currently have 2+ years in ML/DS 

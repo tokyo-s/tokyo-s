@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My name is Vladimir Stojoc and I am a Computer Science student from Technical University of Moldova.
+Currently have 2+ years in ML/DS 
+Data Scientist at Entangled AI
+Tech Director at Sigmoid, R&D organization that develops AI domain in Moldova and Romania and prepares young talents to work in IT domain.
+
+Connect with me on linkedin
+<a href = 'https://www.linkedin.com/in/vladimir-stojoc-a5789a1ba/'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png'></a>
 <!--
 **tokyo-s/tokyo-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

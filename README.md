@@ -1,4 +1,3 @@
-<img src='https://drive.google.com/uc?id=1dn33q9GE_pf0p2Letr7liQiVyaqtr6Am' ><br><br>
 ![image](https://user-images.githubusercontent.com/61602995/150642168-c6142514-bdfe-4db1-a797-9b965fde4645.png)
 
 # Hi there 👋

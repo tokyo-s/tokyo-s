@@ -6,7 +6,9 @@ Data Scientist at Entangled AI
 Tech Director at Sigmoid, R&D organization that develops AI domain in Moldova and Romania and prepares young talents to work in IT domain.
 
 Connect with me on linkedin <br>
-<a href = 'https://www.linkedin.com/in/vladimir-stojoc-a5789a1ba/'><img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' style = "width:20px; height:20px"></a>
+<a href = 'https://www.linkedin.com/in/vladimir-stojoc-a5789a1ba/'><img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' style = "width:20px; height:20px"></a><br>
+Follow Sigmoid for new educational events <br>
+<a href = 'https://www.instagram.com/sigmo.ai/'><img src='![image](https://user-images.githubusercontent.com/61602995/150636727-ef4fecc7-9320-4796-912f-b0ee0c9c3e7a.png)' style = "width:20px; height:20px"></a><br>
 <!--
 **tokyo-s/tokyo-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

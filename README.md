@@ -1,4 +1,4 @@
-<img src='https://drive.google.com/file/d/1dn33q9GE_pf0p2Letr7liQiVyaqtr6Am' ><br><br>
+<img src='https://drive.google.com/uc?id=1dn33q9GE_pf0p2Letr7liQiVyaqtr6Am' ><br><br>
 
 # Hi there 👋
 

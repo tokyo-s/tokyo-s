@@ -6,7 +6,7 @@ My name is Vladimir Stojoc and I am a Computer Science student at Technical Univ
 Currently have 2+ years in ML/DS <br>
 Data Scientist at Entangled AI <br><br>
 <img src='https://drive.google.com/uc?id=1dnEb_rjvPaLHP7iJLAT8Mo1rmaudSXej' style = "width:100px; height:70px" ><br><br>
-Tech Director at Sigmoid, R&D organization that develops AI domain in Moldova and Romania and prepares young talents to work in IT domain. <br>
+CEO at Sigmoid, R&D organization that develops AI domain in Moldova and Romania and prepares young talents to work in IT domain. <br>
 Sigmoid is organizing free educational event like bootcamps on different topics, for instance NLP, Computer Vision, Data Engineering or just Python <br>
 
 
